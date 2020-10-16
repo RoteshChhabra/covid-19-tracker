@@ -1,3 +1,11 @@
+
+A Covid-19 Tracker
+
+It uses API disease.sh for getting the live coivd data.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
